@@ -1,0 +1,393 @@
+{
+ "encoding": "Akruti Dev (AkrutiDevBhaskar, AkrutiDevBela, AkrutiDevYogini)",
+ "how_to_read": "stemmed: the byte alone is the half form (consonant + virama); followed by the stem byte 'e' it is the full consonant. plain: one letter. signs: vowel signs and marks; {pre_i} is ि written before its cluster, {pre_i_bindu} is ि with the anusvara of its cluster, {reph} is र् written after its syllable, {nukta} precedes its consonant. special: glyph sequences read as one letter before their parts. Evidence is an Akruti word from the source and its known Unicode spelling. Before lookup, k or H with vowel signs before the closing À is reordered to the two-glyph letter followed by its signs (kegÀ -> keÀg 'कु', ke=À -> keÀ= 'कृ', kegbÀ -> keÀgb 'कुं').",
+ "source": "Bihar State Election Commission, elected mukhiya lists, 2001 (sec.bih.nic.in, Internet Archive captures of May 2006); spellings checked against the SEC's 2006 workbooks for the same blocks",
+ "stemmed": {
+  "v": {
+   "unicode": "न",
+   "evidence": "ve-ce \"नाम\"; veke \"नक\" (नकटा)"
+  },
+  "H": {
+   "unicode": "प",
+   "evidence": "Heb®ee³ele \"पंचायत\""
+  },
+  "c": {
+   "unicode": "म",
+   "evidence": "veece \"नाम\""
+  },
+  "m": {
+   "unicode": "स",
+   "evidence": "meoj \"सदर\"; met®eer \"सूची\""
+  },
+  "³": {
+   "unicode": "य",
+   "evidence": "³eeoJe \"यादव\""
+  },
+  "J": {
+   "unicode": "व",
+   "evidence": "efJepe³e \"विजय\""
+  },
+  "®": {
+   "unicode": "च",
+   "evidence": "Heb®ee³ele \"पंचायत\""
+  },
+  "p": {
+   "unicode": "ज",
+   "evidence": "efpeuee \"जिला\""
+  },
+  "u": {
+   "unicode": "ल",
+   "evidence": "efpeuee \"जिला\"; ef®eueefyeuueer \"चिलबिल्ली\""
+  },
+  "l": {
+   "unicode": "त",
+   "evidence": "Heb®ee³ele \"पंचायत\""
+  },
+  "C": {
+   "unicode": "ण",
+   "evidence": "veeje³eCe \"नारायण\""
+  },
+  "M": {
+   "unicode": "श",
+   "evidence": "MesjHegj \"शेरपुर\"; HeefM®eceer \"पश्चिमी\""
+  },
+  "Y": {
+   "unicode": "भ",
+   "evidence": "Yegmeewuee \"भुसौला\""
+  },
+  "K": {
+   "unicode": "ख",
+   "evidence": "cegefKe³ee \"मुखिया\"; ueKeveer \"लखनी\""
+  },
+  "I": {
+   "unicode": "घ",
+   "evidence": "oerIee \"दीघा\""
+  },
+  "y": {
+   "unicode": "ब",
+   "evidence": "efye¬eÀce \"बिक्रम\"; yeemegosJe \"बासुदेव\""
+  },
+  "i": {
+   "unicode": "ग",
+   "evidence": "iebieneje \"गंगहरा\""
+  },
+  "O": {
+   "unicode": "ध",
+   "evidence": "Oeevee \"धाना\""
+  },
+  "L": {
+   "unicode": "थ",
+   "evidence": "nefLe³eekeÀbo \"हथियाकंद\""
+  },
+  "<": {
+   "unicode": "ष",
+   "evidence": "®ebêYeg<eCe \"चंद्रभूषण\"; efJe<Ceg \"विष्णु\""
+  },
+  "#": {
+   "unicode": "क्ष",
+   "evidence": "oef#eCeer \"दक्षिणी\"; ue#ceer \"लक्ष्मी\""
+  },
+  "Ê": {
+   "unicode": "त्त",
+   "evidence": "GÊejer \"उत्तरी\"; Hegª<eesÊeceHegj \"पुरुषोत्तमपुर\""
+  },
+  "Þ": {
+   "unicode": "श्र",
+   "evidence": "Þeer \"श्री\"; ÞeerjeceHegj \"श्रीरामपुर\""
+  },
+  "Ò": {
+   "unicode": "प्र",
+   "evidence": "ÒeKeb[ \"प्रखंड\"; Òeceb[ue \"प्रमंडल\""
+  },
+  "$": {
+   "unicode": "त्र",
+   "evidence": "ef$emlejer³e \"त्रिस्तरीय\""
+  },
+  "Ð": {
+   "unicode": "द्य",
+   "evidence": "yewÐeveeLe \"बैद्यनाथ\""
+  },
+  "P": {
+   "unicode": "झ",
+   "evidence": "Pee \"झा\"; ceefPeieecee \"मझिगामा\""
+  },
+  "ï": {
+   "unicode": "ह्म",
+   "evidence": "ye´ïeosJe \"ब्रह्मदेव\""
+  },
+  "¿": {
+   "unicode": "ह्म",
+   "evidence": "yeÏ¿eHegj \"ब्रह्मपुर\""
+  },
+  "û": {
+   "unicode": "ग्र",
+   "evidence": "mebûeece \"संग्राम\"; DeûenCe \"अग्रहण\""
+  },
+  "%": {
+   "unicode": "ज्ञ",
+   "evidence": "Dee%ee \"आज्ञा\"; jecee%ee \"रामाज्ञा\""
+  },
+  "V": {
+   "unicode": "न्न",
+   "evidence": "KeVee \"खन्ना\"; ìgVeg \"टुन्नु\""
+  },
+  "ð": {
+   "unicode": "श्र",
+   "evidence": "efceðeer \"मिश्री\""
+  }
+ },
+ "plain": {
+  "j": {
+   "unicode": "र",
+   "evidence": "meoj \"सदर\"; oejesiee \"दारोगा\""
+  },
+  "ì": {
+   "unicode": "ट",
+   "evidence": "vekeÀìe \"नकटा\"; ìesuee \"टोला\""
+  },
+  "o": {
+   "unicode": "द",
+   "evidence": "meoj \"सदर\"; efo³eeje \"दियारा\""
+  },
+  "n": {
+   "unicode": "ह",
+   "evidence": "nsleveHegj \"हेतनपुर\"; efmebn \"सिंह\""
+  },
+  "[": {
+   "unicode": "ड",
+   "evidence": "ÒeKeb[ \"प्रखंड\"; Hegvee[ern \"पुनाडीह\""
+  },
+  "{": {
+   "unicode": "ढ",
+   "evidence": "{erJeæ[e \"ढीबड़ा\""
+  },
+  "í": {
+   "unicode": "छ",
+   "evidence": "íþt \"छठू\"; DeígDee \"अछुआ\""
+  },
+  "þ": {
+   "unicode": "ठ",
+   "evidence": "íþt \"छठू\"; Hewveeþer \"पैनाठी\""
+  },
+  "ê": {
+   "unicode": "द्र",
+   "evidence": "®ebêYeg<eCe \"चंद्रभूषण\"; veeiesvê \"नागेन्द्र\""
+  },
+  "Î": {
+   "unicode": "द्द",
+   "evidence": "peceeuegÎerve®ekeÀ \"जमालुद्दीनचक\""
+  },
+  "G": {
+   "unicode": "उ",
+   "evidence": "GÊejer \"उत्तरी\"; Go³e \"उदय\""
+  },
+  "F": {
+   "unicode": "इ",
+   "evidence": "Fye>enerce \"इब्राहीम\""
+  },
+  "S": {
+   "unicode": "ए",
+   "evidence": "Ssve \"ऐन\" (with Ss)"
+  },
+  "ª": {
+   "unicode": "रू",
+   "evidence": "meªDee \"सरूआ\"; ªHeewueer \"रूपौली\"; ®eªDeeJeeb \"चरूआवां\" (2006 workbooks: सरूआ, रूपौली, चरूआ; never रु)"
+  },
+  "©": {
+   "unicode": "रु",
+   "evidence": "De©Ce \"अरुण\"; ieg©MejCe \"गुरुशरण\""
+  },
+  "Æ": {
+   "unicode": "ट्ट",
+   "evidence": "YeeueeHeÆer \"भालापट्टी\"; IeesjIeÆe \"घोरघट्टा\""
+  },
+  "Ç": {
+   "unicode": "ट्ठ",
+   "evidence": "efYeÇer \"भिट्ठी\""
+  },
+  "Ü": {
+   "unicode": "द्व",
+   "evidence": "iebieÜej \"गंगद्वार\""
+  },
+  "×": {
+   "unicode": "द्ध",
+   "evidence": "DeefvejÀ× \"अनिरुद्ध\"; efme×veeLe \"सिद्धनाथ\""
+  },
+  "à": {
+   "unicode": "द्ध",
+   "evidence": "efieàe \"गिद्धा\""
+  },
+  "Ã": {
+   "unicode": "द्र",
+   "evidence": "®evÃceC[er \"चन्द्रमण्डी\"; yeueYeÃ \"बलभद्र\""
+  },
+  "T": {
+   "unicode": "ऊ",
+   "evidence": "ceT \"मऊ\"; efHeDeeTj \"पिआऊर\""
+  },
+  "·": {
+   "unicode": "ड्ड",
+   "evidence": "Ke·e \"खड्डा\""
+  },
+  "Ë": {
+   "unicode": "हृ",
+   "evidence": "Ëo³e \"हृदय\""
+  },
+  "h": {
+   "unicode": "प्",
+   "evidence": "ceefveDehHee \"मनिअप्पा\""
+  }
+ },
+ "signs": {
+  "ef": {
+   "unicode": "{pre_i}",
+   "evidence": "efpeuee \"जिला\""
+  },
+  "eq": {
+   "unicode": "{pre_i}",
+   "evidence": "meeq®®eoevevo \"सच्चिदानन्द\"; eqJeve³e \"विनय\""
+  },
+  "d": {
+   "unicode": "्",
+   "evidence": "ueìdìe \"लट्टा\"; keÀg[d[er \"कुड्डी\""
+  },
+  "^": {
+   "unicode": "्",
+   "evidence": "yemeIeì^ìe \"बसघट्टा\""
+  },
+  "eE": {
+   "unicode": "{pre_i_bindu}",
+   "evidence": "eEmen \"सिंह\" (ि with the anusvara on its cluster)"
+  },
+  "er": {
+   "unicode": "ी",
+   "evidence": "met®eer \"सूची\""
+  },
+  "ea": {
+   "unicode": "ी{reph}",
+   "evidence": "MesjHegj HetJeea \"शेरपुर पूर्वी\""
+  },
+  "es": {
+   "unicode": "ो",
+   "evidence": "ìesuee \"टोला\"; meesveeJeeb \"सोनावां\""
+  },
+  "ew": {
+   "unicode": "ौ",
+   "evidence": "Yegmeewuee \"भुसौला\"; pecemeewle \"जमसौत\""
+  },
+  "e": {
+   "unicode": "ा",
+   "evidence": "keÀe \"का\""
+  },
+  "g": {
+   "unicode": "ु",
+   "evidence": "oeveeHegj \"दानापुर\""
+  },
+  "t": {
+   "unicode": "ू",
+   "evidence": "met®eer \"सूची\""
+  },
+  "s": {
+   "unicode": "े",
+   "evidence": "nsleveHegj \"हेतनपुर\""
+  },
+  "w": {
+   "unicode": "ै",
+   "evidence": "cewveHegje \"मैनपुरा\""
+  },
+  "x": {
+   "unicode": "े{reph}",
+   "evidence": "Oecexvê \"धर्मेन्द्र\""
+  },
+  "W": {
+   "unicode": "ें",
+   "evidence": "jeceWMJej \"रामेंश्वर\""
+  },
+  "b": {
+   "unicode": "ं",
+   "evidence": "Heb®ee³ele \"पंचायत\""
+  },
+  "B": {
+   "unicode": "ँ",
+   "evidence": "ceesefj³eeJeeB \"मोरियावाँ\""
+  },
+  "=": {
+   "unicode": "ृ",
+   "evidence": "Je=pevebove \"वृजनंदन\""
+  },
+  "´": {
+   "unicode": "्र",
+   "evidence": "He´meeo \"प्रसाद\""
+  },
+  ">": {
+   "unicode": "्र",
+   "evidence": "Fye>enerce \"इब्राहीम\""
+  },
+  "Ï": {
+   "unicode": "्र",
+   "evidence": "yeÏ¿eHegj \"ब्रह्मपुर\""
+  },
+  "@": {
+   "unicode": "ँ",
+   "evidence": "Kee@ \"खाँ\"; ®ee@Heer \"चाँपी\"; cee@Peer \"माँझी\""
+  },
+  "]": {
+   "unicode": "",
+   "evidence": "a stray mark with no glyph: megKeemeve ] \"सुखासन\", ueeueie]æ{ \"लालगढ़\", Deiejs][ \"अगरेड\" (2006: सुखासन, अगरेडकला)"
+  },
+  "&": {
+   "unicode": "{reph}",
+   "evidence": "Mecee& \"शर्मा\"; efveJee&®eve \"निर्वाचन\""
+  },
+  "æ": {
+   "unicode": "{nukta}",
+   "evidence": "Keæ[ieHegj \"खड़गपुर\"; efMeJeieæ{ \"शिवगढ़\""
+  },
+  "ö": {
+   "unicode": ":",
+   "evidence": "ÒeKeb[ ö Heìvee meoj \"प्रखंड : पटना सदर\""
+  }
+ },
+ "special": {
+  "keÀ": {
+   "unicode": "क",
+   "evidence": "keÀe \"का\"; vekeÀìe \"नकटा\""
+  },
+  "HeÀ": {
+   "unicode": "फ",
+   "evidence": "HeÀlesnHegj \"फतेहपुर\"; HeÀgueJeejer \"फुलवारी\""
+  },
+  "jÀ": {
+   "unicode": "रु",
+   "evidence": "DejÀCe \"अरुण\""
+  },
+  "¬eÀ": {
+   "unicode": "क्र",
+   "evidence": "efye¬eÀce \"बिक्रम\""
+  },
+  "De": {
+   "unicode": "अ",
+   "evidence": "Decej \"अमर\"; Dee \"आ\" in DeígDee \"अछुआ\""
+  },
+  "Ss": {
+   "unicode": "ऐ",
+   "evidence": "Ssve KeeB \"ऐन खाँ\""
+  },
+  "F&": {
+   "unicode": "ई",
+   "evidence": "metF&³ee \"सूईया\""
+  },
+  "keÌ": {
+   "unicode": "क्",
+   "evidence": "yekeÌme \"बक्स\"; cegkeÌleeHegj \"मुक्तापुर\""
+  },
+  "HeÌ": {
+   "unicode": "फ्",
+   "evidence": "ceespeHeÌHeÀj \"मोजफ्फर\""
+  },
+  "$eÝ": {
+   "unicode": "ऋ",
+   "evidence": "$eÝef<ekesÀMe \"ऋषिकेश\""
+  }
+ }
+}
